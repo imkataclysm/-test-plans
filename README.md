@@ -2,7 +2,7 @@
 
 **Project Name:** Demo E-Commerce Web App  
 **Test Plan Version:** 1.0  
-**Prepared By:** Katherine Rosales  
+**Prepared By:** Katherine R.
 **Date:** May 3, 2025
 
 ---
