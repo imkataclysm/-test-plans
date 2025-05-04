@@ -7,7 +7,7 @@
 
 ---
 
-## 1. 🎯 Objective
+## 1. Objective
 
 The purpose of this test plan is to define the strategy, scope, approach, and schedule for testing the Demo E-Commerce Web Application to ensure it meets functional and non-functional requirements.
 
@@ -80,7 +80,7 @@ The purpose of this test plan is to define the strategy, scope, approach, and sc
 
 ---
 
-## 9. 📆 Schedule
+## 9. Schedule
 
 | Phase                | Dates              |
 |----------------------|--------------------|
