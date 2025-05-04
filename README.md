@@ -103,5 +103,5 @@ The purpose of this test plan is to define the strategy, scope, approach, and sc
 
 ## 11. 📎 References
 
-- [Test Cases Folder](../test-cases/)
-- [Bug Reports Folder](../bug-reports/)
+- [Test Cases Folder](https://github.com/imkataclysm/qa-manual-tests)
+- [Bug Reports Folder](https://github.com/imkataclysm/bug-report-samples)
