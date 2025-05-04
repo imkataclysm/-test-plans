@@ -1,4 +1,4 @@
-# 🧪 Test Plan – Sample Web Application
+# Test Plan – Sample Web Application
 
 **Project Name:** Demo E-Commerce Web App  
 **Test Plan Version:** 1.0  
@@ -13,7 +13,7 @@ The purpose of this test plan is to define the strategy, scope, approach, and sc
 
 ---
 
-## 2. 🧱 Scope of Testing
+## 2. Scope of Testing
 
 ### In-Scope:
 - User Registration & Login
@@ -27,7 +27,7 @@ The purpose of this test plan is to define the strategy, scope, approach, and sc
 
 ---
 
-## 3. 🔑 Test Items
+## 3. Test Items
 
 - Login and Registration Pages  
 - Product Listing Page  
@@ -38,7 +38,7 @@ The purpose of this test plan is to define the strategy, scope, approach, and sc
 
 ---
 
-## 4. 👥 Roles and Responsibilities
+## 4. Roles and Responsibilities
 
 | Role           | Name                | Responsibility                         |
 |----------------|---------------------|----------------------------------------|
@@ -48,7 +48,7 @@ The purpose of this test plan is to define the strategy, scope, approach, and sc
 
 ---
 
-## 5. 🔁 Test Approach
+## 5. Test Approach
 
 - **Manual Testing** will be performed for all key user journeys.
 - **Smoke Testing** before each build release.
@@ -57,7 +57,7 @@ The purpose of this test plan is to define the strategy, scope, approach, and sc
 
 ---
 
-## 6. 🧪 Test Deliverables
+## 6. Test Deliverables
 
 - Test Plan Document (this file)  
 - Test Cases (linked in `/test-cases/`)  
@@ -66,13 +66,13 @@ The purpose of this test plan is to define the strategy, scope, approach, and sc
 
 ---
 
-## 7. ✅ Entry Criteria
+## 7. Entry Criteria
 
 - Code is deployed to staging environment  
 - Test environment is stable and accessible  
 - All required documentation is available  
 
-## 8. 🚫 Exit Criteria
+## 8. Exit Criteria
 
 - All high/critical priority bugs are resolved  
 - 95% of planned test cases are executed  
