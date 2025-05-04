@@ -60,8 +60,8 @@ The purpose of this test plan is to define the strategy, scope, approach, and sc
 ## 6. Test Deliverables
 
 - Test Plan Document (this file)  
-- Test Cases (linked in `/test-cases/`)  
-- Bug Reports (linked in `/bug-reports/`)  
+- Test Cases 
+- Bug Reports 
 - Final Test Summary Report
 
 ---
